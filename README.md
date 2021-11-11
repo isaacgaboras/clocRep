@@ -1,4 +1,4 @@
-# Email Sending Using Python
+# Email Sending Using Python (CLOC Script)
 The whole point of this exercise is to count lines of code by scanning files of code, languages found, coments, number of files, etc... within a folder/file
 # Scope
 The file scanning of a specific file can count the files and deploy the data within the file with a chart of explination. While using Python on the other hand. The code will allow the file that has collected all the data of cloc and sent the file to a designated email with proof of the documentation of cloc. 
